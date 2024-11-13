@@ -19,7 +19,7 @@ function AboutSection() {
     <section className="text-white">
       <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
         <Image src='/Asset/my-pic.png' alt="hero Image" className="" width={300} height={100}/>
-        <div>
+        <div className='px-8'>
           <h1 className="text-4xl font-bold text-white my-4">About Me</h1>
           <p className="text-base lg:text-lg">
             I am a Full stack web developer with a passion for creating interactive and Responsive
